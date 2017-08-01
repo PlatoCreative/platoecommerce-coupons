@@ -1,0 +1,14 @@
+{
+	"name": "plato-creative/platoecommerce-coupons",
+	"description": "SilverStripe Ecommerce",
+	"keywords": ["silverstripe", "ecommerce"],
+	"require":
+	{
+		"silverstripe/framework": "~3.1",
+		"silverstripe/cms": "~3.1",
+		"plato-creative/platoecommerce": "3.1.*"
+	},
+	"extra": {
+    "installer-name": "plato-ecommerce-coupons"
+  }
+}
